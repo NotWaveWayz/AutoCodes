@@ -25,7 +25,7 @@ Open the "Compiler" folder and open Ahk2Exe.exe.
 
 
 Should be pretty straight forward after that.
-> ANSI (A32) doesn't support emojis and may break certain parts of the script, it is recommended to use the (U64/32) to compile.
+> ANSI (A32) doesn't support emojis and may break certain parts of the script, it is recommended to use (U64/32) to compile.
 
 # VirusTotal Scans
 
