@@ -25,7 +25,7 @@ Open the "Compiler" folder and open Ahk2Exe.exe.
 
 
 Should be pretty straight forward after that.
-> The default .bin files doesn't support emojis and may break certain parts of the script, it is recommended to use the (AutoHotkey###.exe) to compile.
+> ANSI (A32) doesn't support emojis and may break certain parts of the script, it is recommended to use the (U64/32) to compile.
 
 # VirusTotal Scans
 
